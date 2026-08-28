@@ -9,9 +9,9 @@
 ### 🔭 What I'm building
 
 - **[Listener-Segmentation](https://github.com/mohamedfadil12/Listener-Segmentation)** — Unsupervised K-Means clustering on music listening behavior (listening hours/week, songs/day, skip rate, playlist count) to segment users into Casual Listener, Music Explorer, and Heavy Listener profiles. Built in Streamlit; a parallel version in Google AI Studio/Antigravity explores a more dynamic, illustrated UI.
-- **AI Brand Studio** — A generative AI branding assistant that produces logo concepts, color palettes, fonts, social posts, captions, and brand guidelines via LLM + image-gen APIs. Design background meets applied GenAI.
+- **[AI Brand Studio](https://github.com/mohamedfadil12/aistudio-app)** — A generative AI branding assistant that produces logo concepts, color palettes, fonts, social posts, captions, and brand guidelines via LLM + image-gen APIs. Design background meets applied GenAI.
 - **Customer Intelligence & Sales Forecasting Platform** — Customer segmentation (K-Means), churn prediction (Logistic Regression / Random Forest), and sales forecasting (ARIMA), SQL-backed with a Streamlit dashboard.
-- **Global Billing Platform** *(early planning)* — Invoicing/billing SaaS designed to work for businesses in any country, following local tax/regulatory rules.
+- **[Global Billing Platform](https://github.com/mohamedfadil12/billing-software)** *(early planning)* — Invoicing/billing SaaS designed to work for businesses in any country, following local tax/regulatory rules.
 
 ### 🛠️ Tools & Stack
 
@@ -26,7 +26,7 @@ Preparing for a Pre-Placement Assessment covering Data Science, AI/GenAI, Full S
 
 ### 📫 Reach me
 
-[Portfolio](#) · [LinkedIn](#) · Open to internships/roles at the intersection of design and applied ML
+[Portfolio](#) · [LinkedIn](www.linkedin.com/in/mohamedfadil18) · Open to internships/roles at the intersection of design and applied ML
 
 ---
 <!-- Pin your top 3-4 repos on the profile page itself: Listener-Segmentation, AI Brand Studio, Customer Intelligence & Sales Forecasting, and one strong pure-design repo if you have one (e.g. the SMK Hajj Service branding work as case-study markdown). -->
