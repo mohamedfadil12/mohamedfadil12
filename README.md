@@ -26,7 +26,7 @@ Preparing for a Pre-Placement Assessment covering Data Science, AI/GenAI, Full S
 
 ### 📫 Reach me
 
-[Portfolio](#) · [LinkedIn](www.linkedin.com/in/mohamedfadil18) · Open to internships/roles at the intersection of design and applied ML
+[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/mohamedfadil18) · Open to internships/roles at the intersection of design and applied ML
 
 ---
 <!-- Pin your top 3-4 repos on the profile page itself: Listener-Segmentation, AI Brand Studio, Customer Intelligence & Sales Forecasting, and one strong pure-design repo if you have one (e.g. the SMK Hajj Service branding work as case-study markdown). -->
