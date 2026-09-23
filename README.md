@@ -12,10 +12,6 @@ My focus: where design intuition meets data-driven products.
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Roles-brightgreen?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamedfadil12&theme=github-dark-blue&hide_border=true&ring=EB5454" alt="GitHub Streak" /></a>
-</p>
-
 ---
 
 ### 🎨 Design that sells
@@ -78,5 +74,9 @@ Preparing for a Pre-Placement Assessment (Data Science, AI/GenAI, Full Stack, Cl
 ### 📫 Reach me
 
 [LinkedIn](https://www.linkedin.com/in/mohamedfadil18) · Open to internships/roles at the intersection of design and applied ML
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamedfadil12&theme=github-dark-blue&hide_border=true&ring=EB5454" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center"><i>Design intuition. Data discipline. One person, one skillset.</i></p>
